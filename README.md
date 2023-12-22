@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nada Omran</h1>
 <h3 align="center">Front End Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://nadaomran.netlify.app/](https://nadaomran.vercel.app/)
+- 👨‍💻 All of my projects are available at [my potfolio](https://nadaomran.vercel.app/)
 
 - 📫 How to reach me **nadamuhammad28@gmail.com**
 
